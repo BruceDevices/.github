@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/BruceDevices/firmware/main/media/pictures/bruce_banner.jpg" alt="Bruce" width="100%" />
 
-# Bruce
+# Bruce Devices
 
 **The open-source ESP32 firmware that turns your device into the ultimate multi-tool.**
 
@@ -32,6 +32,13 @@ True open-source · Cross-platform · Pocket-sized.
 Bruce is a versatile ESP32 firmware packed with offensive-security tooling, built to make Red Team operations fast, portable, and open. One firmware, dozens of boards, from a keychain-sized M5StickC to our own **RF Reaper** dev board.
 
 Everything here is open source: the firmware, the apps, the app store, the tooling, and the PCBs.
+
+> **Bruce runs on donations.** No ads, no telemetry, no paywalled features, just people who chip in. If Bruce saved you a day of work, [buy us a coffee](https://bruce.computer/donate) or [grab a board](https://shop.bruce.computer). Both keep the firmware free for everyone.
+
+<div align="center">
+<a href="https://bruce.computer/donate"><img src="https://img.shields.io/badge/%20Support%20development%20-%E2%9D%A4-e2306c?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Donate" height="42"></a>
+<br><sub>bruce.computer/donate · one-off or monthly</sub>
+</div>
 
 ---
 
@@ -81,6 +88,7 @@ Bruce runs on a growing family of boards. The [Web Flasher](https://bruce.comput
 | **LILYGO** | T-Deck · T-Deck Pro · T-Display-S3 (+ Touch / MMC) · T-Display-S3 Pro · T-Display TTGO · T-Embed · T-Embed CC1101 · T-HMI · T-LoRa Pager · T-Watch-S3 |
 | **CYD** (Cheap Yellow Display) | 2432S028 · 2432W328C · 2432W328R / S024R · 2USB · 3248S035C · 3248S035R · NM-CYD-C5 |
 | **Elecrow** | 24B · 28B · Advance 3.5" S3 |
+| **Seeed Studio** | XIAO ESP32S3 · XIAO ESP32S3 Sense <sub>(headless, runs from the WebUI)</sub> |
 | **ESP32-C5** | ESP32-C5 · ESP32-C5 TFT |
 | **Marauder** | Mini · V4–V6 · v61 · v7 |
 | **Bruce / Community** | RF Reaper · Smoochiee (Bruce PCB V2) · Phantom S024R · WaveSentry R1 · Awok Mini · Awok Touch · Arduino Nesso N1 · ESP32-S3 DevKitC |
@@ -93,13 +101,13 @@ Bruce runs on a growing family of boards. The [Web Flasher](https://bruce.comput
 
 **BLE:** scanning, BadBLE scripts, keyboard emulation, device spam (iOS / Windows / Samsung / Android)
 
-**Sub-GHz (RF):** scan, copy, replay, spectrum analysis, jamming, CC1101
+**Sub-GHz (RF):** scan, copy, replay, spectrum analysis, jam PoC, CC1101, rolling codes, replay from file flipper format
 
-**RFID / NFC:** read, clone, NDEF write, Amiibo
+**RFID / NFC:** read, clone, NDEF write, Amiibo, emulation of tags, brute-force
 
-**IR:** TV-B-Gone, custom protocols (NEC, SIRC, Samsung32, RC5/RC6)
+**IR:** TV-B-Gone, custom protocols (NEC, SIRC, Samsung32, RC5/RC6), load files also flipper format .ir
 
-**More:** FM broadcast, nRF24 jamming, iButton, BadUSB, QR codes, SD manager, WebUI, and a full JavaScript interpreter with its own [app store](https://bruce.computer/appstore)
+**More:** FM broadcast, nRF24 jam PoC, iButton, BadUSB, QR codes, SD manager, WebUI, and a full JavaScript interpreter with its own [app store](https://bruce.computer/appstore)
 
 ---
 
@@ -132,21 +140,18 @@ Bruce runs on a growing family of boards. The [Web Flasher](https://bruce.comput
 <a href="https://discord.gg/WJ9XF9czVT"><img src="https://bruce.computer/img/discord.svg" width="34"></a> &nbsp;
 <a href="https://youtube.com/@Bruce-fw"><img src="https://bruce.computer/img/youtube.svg" width="34"></a> &nbsp;
 <a href="https://reddit.com/r/brucefw"><img src="https://bruce.computer/img/reddit.svg" width="34"></a> &nbsp;
-<a href="https://www.instagram.com/bruce_firmware/"><img src="https://bruce.computer/img/instagram.svg" width="34"></a> &nbsp;
+<a href="https://www.instagram.com/brucedevices/"><img src="https://bruce.computer/img/instagram.svg" width="34"></a> &nbsp;
 <a href="https://matrix.to/#/#general:matrix.bruce.computer"><img src="https://bruce.computer/img/matrix.svg" width="34"></a>
 
-[Discord](https://discord.gg/WJ9XF9czVT) · [YouTube](https://youtube.com/@Bruce-fw) · [Reddit](https://reddit.com/r/brucefw) · [Instagram](https://www.instagram.com/bruce_firmware/) · [Matrix](https://matrix.to/#/#general:matrix.bruce.computer) · [Forum](https://forum.bruce.computer) · [contact@bruce.computer](mailto:contact@bruce.computer)
+[Discord](https://discord.gg/WJ9XF9czVT) · [YouTube](https://youtube.com/@Bruce-fw) · [Reddit](https://reddit.com/r/brucefw) · [Instagram](https://www.instagram.com/brucedevices/) · [Matrix](https://matrix.to/#/#general:matrix.bruce.computer) · [Forum](https://forum.bruce.computer) · [contact@bruce.computer](mailto:contact@bruce.computer)
 
 ---
 
-## Support Bruce
+## Contribute
 
-Bruce is free and open source, built by the community. If it is useful to you, please consider supporting continued development.
+Code, docs, board support, bug reports and app ideas are all welcome. Start with the [firmware repo](https://github.com/BruceDevices/firmware/issues) or say hi on [Discord](https://discord.gg/WJ9XF9czVT).
 
-<div align="center">
-<a href="https://bruce.computer/donate"><img src="https://img.shields.io/badge/%20Donate%20-%E2%9D%A4-e2306c?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Donate" height="42"></a>
-<br><sub>bruce.computer/donate</sub>
-</div>
+Can't code? **[Donating](https://bruce.computer/donate)** or starring the repos helps just as much.
 
 ---
 
