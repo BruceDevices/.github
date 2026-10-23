@@ -4,11 +4,13 @@
 
 # Bruce Devices
 
-**The open-source ESP32 firmware that turns your device into the ultimate multi-tool.**
+**The open-source multi-tool for learning wireless security, that runs in 60+ ESP32 devices.**
+
+Explore the repositories, apps and ecosystem of Bruce!
 
 Debug your gear, probe the airwaves, and learn how wireless really works. All from your pocket.
 
-True open-source · Cross-platform · Pocket-sized.
+# True open-source · Cross-platform · Pocket-sized
 
 ## Currently we Support
 
@@ -78,20 +80,20 @@ Community hardware lives in [BruceDevices/PCBs](https://github.com/BruceDevices/
 
 ---
 
-## Supported Devices
+## Some of Supported Devices
 
-Bruce runs on a growing family of boards. The [Web Flasher](https://bruce.computer/flasher) always has the current builds.
+Bruce runs on a growing family of boards. The [Web Flasher](https://bruce.computer/flasher) always has the current builds. Linked boards go to the maker's official store.
 
 | Vendor | Boards |
 |---|---|
-| **M5Stack** | Cardputer · StickC-Plus 1.1 · StickC-Plus 2 · StickS3 · Core (4MB / 16MB) · Core2 · CoreS3 · DinMeter |
-| **LILYGO** | T-Deck · T-Deck Pro · T-Display-S3 (+ Touch / MMC) · T-Display-S3 Pro · T-Display TTGO · T-Embed · T-Embed CC1101 · T-HMI · T-LoRa Pager · T-Watch-S3 |
+| **M5Stack** | [Cardputer](https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3) · [Cardputer ADV](https://shop.m5stack.com/products/m5stack-cardputer-adv-version-esp32-s3) · [StickC-Plus 1.1](https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit) · [StickC-Plus 2](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit) · [StickS3](https://shop.m5stack.com/products/m5sticks3-esp32s3-mini-iot-dev-kit) · [Core (4MB / 16MB)](https://shop.m5stack.com/products/esp32-basic-core-iot-development-kit-v2-7) · [Core2](https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit-v1-1) · [CoreS3](https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit) · [DinMeter](https://shop.m5stack.com/products/m5stack-din-meter-w-m5stamps3) |
+| **LILYGO** | [T-Deck](https://lilygo.cc/products/t-deck) · [T-Deck Pro](https://lilygo.cc/products/t-deck-pro) · [T-Display-S3 (+ Touch / MMC)](https://lilygo.cc/products/t-display-s3) · [T-Display-S3 Pro](https://lilygo.cc/products/t-display-s3-pro) · [T-Display TTGO](https://lilygo.cc/products/t-display) · [T-Embed](https://lilygo.cc/products/t-embed) · [T-Embed CC1101](https://lilygo.cc/products/t-embed-cc1101) · [T-Embed CC1101 Plus](https://lilygo.cc/products/t-embed-cc1101-plus) · [T-HMI](https://lilygo.cc/products/t-hmi) · [T-LoRa Pager](https://lilygo.cc/products/t-lora-pager) · [T-Watch-S3](https://lilygo.cc/products/t-watch-s3) · [T-Watch Ultra](https://lilygo.cc/products/t-watch-ultra) |
 | **CYD** (Cheap Yellow Display) | 2432S028 · 2432W328C · 2432W328R / S024R · 2USB · 3248S035C · 3248S035R · NM-CYD-C5 |
-| **Elecrow** | 24B · 28B · Advance 3.5" S3 |
-| **Seeed Studio** | XIAO ESP32S3 · XIAO ESP32S3 Sense <sub>(headless, runs from the WebUI)</sub> |
+| **Elecrow** | [24B](https://www.elecrow.com/esp32-display-2-4-inch-hmi-display-spi-tft-lcd-touch-screen.html) · [28B](https://www.elecrow.com/esp32-display-2-8-inch-hmi-display-spi-tft-lcd-touch-screen.html) · [Advance 3.5" S3](https://www.elecrow.com/crowpanel-advance-3-5-hmi-esp32-ai-display-480x320-artificial-intelligent-ips-touch-screen.html) |
+| **Seeed Studio** | [XIAO ESP32S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) · [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) <sub>(headless, runs from the WebUI)</sub> |
 | **ESP32-C5** | ESP32-C5 · ESP32-C5 TFT |
-| **Marauder** | Mini · V4–V6 · v61 · v7 |
-| **Bruce / Community** | RF Reaper · Smoochiee (Bruce PCB V2) · Phantom S024R · WaveSentry R1 · Awok Mini · Awok Touch · Arduino Nesso N1 · ESP32-S3 DevKitC |
+| **Marauder** | [Mini · V4–V6 · v61 · v7](https://www.justcallmekokollc.com/collections/all-products) |
+| **Bruce / Community** | [RF Reaper](https://www.elecrow.com/bruce-pcb-rf-reaper.html) · [Smoochiee (Bruce PCB V2)](https://www.elecrow.com/bruce-pcb-v2-smoochiee-1.html) · Phantom S024R · WaveSentry R1 · Awok Mini · Awok Touch · [Arduino Nesso N1](https://store.arduino.cc/products/nesso-n1) · ESP32-S3 DevKitC |
 
 ---
 
@@ -162,3 +164,4 @@ Firmware licensed **AGPL-3.0** · Most of Hardware licensed **CERN-OHL-P-2.0**
 **For authorized security testing and education only.** You are responsible for how you use it.
 
 </div>
+
