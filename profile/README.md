@@ -140,12 +140,12 @@ Bruce runs on a growing family of boards. The [Web Flasher](https://bruce.comput
 ## Community
 
 <a href="https://discord.gg/WJ9XF9czVT"><img src="https://bruce.computer/img/discord.svg" width="34"></a> &nbsp;
-<a href="https://youtube.com/@Bruce-fw"><img src="https://bruce.computer/img/youtube.svg" width="34"></a> &nbsp;
+<a href="https://youtube.com/@brucedevices"><img src="https://bruce.computer/img/youtube.svg" width="34"></a> &nbsp;
 <a href="https://reddit.com/r/brucefw"><img src="https://bruce.computer/img/reddit.svg" width="34"></a> &nbsp;
 <a href="https://www.instagram.com/brucedevices/"><img src="https://bruce.computer/img/instagram.svg" width="34"></a> &nbsp;
-<a href="https://matrix.to/#/#general:matrix.bruce.computer"><img src="https://bruce.computer/img/matrix.svg" width="34"></a>
+<a href="https://matrix.to/#/#space:matrix.bruce.computer"><img src="https://bruce.computer/img/matrix.svg" width="34"></a>
 
-[Discord](https://discord.gg/WJ9XF9czVT) · [YouTube](https://youtube.com/@Bruce-fw) · [Reddit](https://reddit.com/r/brucefw) · [Instagram](https://www.instagram.com/brucedevices/) · [Matrix](https://matrix.to/#/#general:matrix.bruce.computer) · [Forum](https://forum.bruce.computer) · [contact@bruce.computer](mailto:contact@bruce.computer)
+[Discord](https://discord.gg/WJ9XF9czVT) · [YouTube](https://youtube.com/@brucedevices) · [Reddit](https://reddit.com/r/brucefw) · [Instagram](https://www.instagram.com/brucedevices/) · [Matrix](https://matrix.to/#/#space:matrix.bruce.computer) · [Forum](https://forum.bruce.computer) · [contact@bruce.computer](mailto:contact@bruce.computer)
 
 ---
 
