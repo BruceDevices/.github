@@ -68,7 +68,7 @@ Our flagship dev board. ESP32-S3 (16MB Flash / 8MB PSRAM) with Sub-GHz (CC1101),
 <img src="https://bruce.computer/img/bruce-pcb.png" width="260" /><br>
 ESP32-S3-WROOM-1 NF, 16MB Flash / 8MB Octal PSRAM, long-range RF modules (E07-433M20S, E01-2G4M27SX) and a GPIO extender. By Smoochiee.
 
-<a href="https://www.elecrow.com/bruce-pcb-v2-smoochiee-1.html"><img src="https://img.shields.io/badge/%20BUY%20ON%20ELECROW%20-%E2%86%92-00b3a4?style=for-the-badge&logo=shopify&logoColor=white" alt="Buy Smoochiee V2 on Elecrow" height="42"></a>
+<a href="https://dz-rf.com/product/bruce-smoochie-v2-open-source-iot-rf-learning-platform/"><img src="https://img.shields.io/badge/%20BUY%20ON%20DZ--RF%20-%E2%86%92-00b3a4?style=for-the-badge&logo=shopify&logoColor=white" alt="Buy Smoochiee V2 on DZ-RF" height="42"></a>
 <a href="https://www.pcbway.com/project/shareproject/Bruce_PCB_Smoochiee_d6a0284b.html"><img src="https://img.shields.io/badge/%20BUY%20ON%20PCBWAY%20-%E2%86%92-e8480c?style=for-the-badge&logo=kicad&logoColor=white" alt="Buy Smoochiee V2 on PCBWay" height="42"></a><br>
 <sub>Official stores · ships worldwide</sub>
 
@@ -93,7 +93,7 @@ Bruce runs on a growing family of boards. The [Web Flasher](https://bruce.comput
 | **Seeed Studio** | [XIAO ESP32S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) · [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) <sub>(headless, runs from the WebUI)</sub> |
 | **ESP32-C5** | ESP32-C5 · ESP32-C5 TFT |
 | **Marauder** | [Mini · V4–V6 · v61 · v7](https://www.justcallmekokollc.com/collections/all-products) |
-| **Bruce / Community** | [RF Reaper](https://www.elecrow.com/bruce-pcb-rf-reaper.html) · [Smoochiee (Bruce PCB V2)](https://www.elecrow.com/bruce-pcb-v2-smoochiee-1.html) · Phantom S024R · WaveSentry R1 · Awok Mini · Awok Touch · [Arduino Nesso N1](https://store.arduino.cc/products/nesso-n1) · ESP32-S3 DevKitC |
+| **Bruce / Community** | [RF Reaper](https://www.elecrow.com/bruce-pcb-rf-reaper.html) · [Smoochiee (Bruce PCB V2)](https://dz-rf.com/product/bruce-smoochie-v2-open-source-iot-rf-learning-platform/) · Phantom S024R · WaveSentry R1 · Awok Mini · Awok Touch · [Arduino Nesso N1](https://store.arduino.cc/products/nesso-n1) · ESP32-S3 DevKitC |
 
 ---
 
@@ -129,6 +129,7 @@ Bruce runs on a growing family of boards. The [Web Flasher](https://bruce.comput
 |---|---|
 | [**firmware**](https://github.com/BruceDevices/firmware) | The core ESP32 firmware (C++) |
 | [**App**](https://github.com/BruceDevices/App) · [**App-IOS**](https://github.com/BruceDevices/App-IOS) | Companion apps for Android & iOS |
+| [**CardputerZero**](https://github.com/BruceDevices/CardputerZero) | Bruce for M5Stack Cardputer Zero |
 | [**Wiki**](https://github.com/BruceDevices/Wiki) | Documentation |
 | [**App-Store**](https://github.com/BruceDevices/App-Store) · [**App-Store-Apps**](https://github.com/BruceDevices/App-Store-Apps) | The JS app store and its apps |
 | [**bruce-js-tooling**](https://github.com/BruceDevices/bruce-js-tooling) | Types & tools for building Bruce apps |
